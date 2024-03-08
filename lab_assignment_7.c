@@ -41,7 +41,7 @@ int selectionSort(int arr[], int n, int swaps_array[]) {
 }
 
 int main() {
-    int n1 = 8;
+    int n1 = 9;
     int array1[] = {97, 16, 45, 63, 13, 22, 7, 58, 72};
     int swaps_array1[100] = {0};
 
@@ -53,7 +53,7 @@ int main() {
     printf("Total # of swaps: %d\n", total_swaps);
 
 
-    int n2 = 8;
+    int n2 = 9;
     int array2[] = {90, 80, 70, 60, 50, 40, 30, 20, 10};
     int swaps_array2[100] = {0};
 
